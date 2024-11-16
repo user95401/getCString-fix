@@ -1,0 +1,18 @@
+{
+	"geode": "4.0.0-beta.1",
+	"gd": {
+		"win": "*"
+	},
+	"early-load": true,
+	"id": "user95401.getcstring_fix",
+	"name": "Fix for getCString() from null",
+	"version": "v1.0.0",
+	"developer": "user95401",
+	"description": "Avoid the incidents when CCString::getstring() being called with null object.",
+	"tags": [ "offline", "bugfix" ],
+	"links": {
+		"community": "https://discord.gg/6SxAbk3bTA",
+		"homepage": "https://t.me/user95401_channel",
+		"source": "https://github.com/user95401/getCString-fix"
+	}
+}
